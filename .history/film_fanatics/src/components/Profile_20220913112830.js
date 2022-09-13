@@ -5,7 +5,7 @@ function Profile({user}) {
     useEffect(()=>{
        // let my_user;
        // let reviews;
-       
+       heeh
         let myReviews;
         fetch(`http://localhost:9292/viewers/${user}/reviews`)
         .then(r=>r.json())
