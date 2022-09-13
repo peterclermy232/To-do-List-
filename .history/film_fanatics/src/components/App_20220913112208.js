@@ -30,6 +30,7 @@ function App() {
     <div>
       <h1 id = "main-header">Film Fanatics</h1>
       <NavBar id = "NavBar"/>
+      //
       
       <Switch>
         <Route path = "/moviePage">
